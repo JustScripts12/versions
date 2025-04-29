@@ -1,14 +1,2 @@
 {
-    "1.0.0": {
-        "Services": ["TEST"]
-    },
-    "2.1.6": {
-        "Nothing": ["Added new one"]
-    },
-    "2.1.7": {
-        "Nothing": ["Added new one2"]
-    },
-    "2.2.0": {
-        "Since": ["Reworked"]
-    }
 }
