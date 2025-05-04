@@ -1,1 +1,7 @@
-{}
+{
+    "1.1.2": {
+        "Bug Fixes": ["Several bug fixes & cleanups"],
+        "Locales" : ["Added locale option for target label"],
+        "Create Cards": ["Now you can edit the starting balance of the card"]
+    }
+}
