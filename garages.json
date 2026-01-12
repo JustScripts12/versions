@@ -2,6 +2,6 @@
     "1.0.0": {
     },
     "1.0.1": {
-        "Update": ["Added support for owned_vehicles ( ESX ) an player_vehicles ( QB/QBOX )"]
+        "Update": ["Added support for owned_vehicles ( ESX ) an player_vehicles ( QB/QBOX )", "Added support for qb-target ( QBCore/QBox )"]
     },
 }
