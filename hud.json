@@ -1,2 +1,7 @@
 {
+    "2.1.6": {
+    },
+    "2.1.7": {
+        "Bugfixes": ["Fixed config errors", "Fixed chat toLowerCase() error when you type '/'", "Fixed delays in speedometer"]
+    },
 }
