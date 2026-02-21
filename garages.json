@@ -5,8 +5,7 @@
         "Update": ["Added support for owned_vehicles ( ESX ) an player_vehicles ( QB/QBOX )", "Added support for qb-target ( QBCore/QBox )"]
     },
     "1.0.2": {
-        "Update": ["Added Vehicle Keys support ( wasabi_carlock, qs-vehiclekeys, ak47_vehiclekeys, qb-vehiclekey )"]
+        "Update": ["Added Vehicle Keys support ( wasabi_carlock, qs-vehiclekeys, ak47_vehiclekeys, qb-vehiclekey )"],
         "Bugfixes": ["Fixed problem with ( This is not your vehicle )", "Fixed problem with nil values in js for Vehicle properties"]
-    },
-    
+    }
 }
