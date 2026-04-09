@@ -9,6 +9,6 @@
     },
     "1.1.4": {
         "Bug Fixes": ["Fixed bugs with loading Banks and ATM's"],
-        "Update": ["Added ^2 Config.Billings.Society ^0 where you can select your society system for billings ^2 (JustBanks/Custom) ^0 and ^2SendMoneyToSociety ^0 function in ^server/utils_sv.lua^0:491 to manage your custom society system"]
+        "Update": ["Added ^2 Config.Billings.Society ^0 where you can select your society system for billings ^2 (JustBanks/Custom) ^0 and ^2SendMoneyToSociety ^0 function in ^2 server/utils_sv.lua^0:491 to manage your custom society system"]
     }
 }
