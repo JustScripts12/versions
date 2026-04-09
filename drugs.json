@@ -1,1 +1,5 @@
-{}
+{
+    "2.0.2": {
+        "Update" : ["Added Config.RequiredCops for selling drugs, also whitelist of Police Jobs"]
+    },
+}
