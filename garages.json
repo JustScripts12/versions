@@ -7,5 +7,9 @@
     "1.0.2": {
         "Update": ["Added Vehicle Keys support ( wasabi_carlock, qs-vehiclekeys, ak47_vehiclekeys, qb-vehiclekey )"],
         "Bugfixes": ["Fixed problem with ( This is not your vehicle )", "Fixed problem with nil values in js for Vehicle properties"]
+    },
+    "1.0.5": {
+        "Update":["Added possibility to turn off Go Inside button in garages if they have interrior"],
+        "Bugfixes": ["When admin/server delete vehicle it is going directly to impound now."]
     }
 }
